@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\sc102sc.dev.local",
+    "apiKey": "{1BCF3A89-82EF-4BF9-9B1B-5563EEEBF84C}",
+    "deploySecret": "z2j5hvqtbs1ynpf5q7f1k9lz9nzo8drfyo3uxy8t0ne",
+    "deployUrl": "https://sitecore-nextjs-app.dev.local/sitecore/api/jss/import",
+    "layoutServiceHost": "https://sitecore-nextjs-app.dev.local"
+  }
+}
